@@ -1,0 +1,11 @@
+# Игнорировать папку About и всё её содержимое
+About/
+
+# Игнорировать указанные файлы
+SPDAOverride.xml
+english_tooltips.xml
+english_tips.xml
+english_keys.xml
+english_help.xml
+english.xml
+en.resx
